@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Recruit developers to build the kv database engine NutsDB together 招募开发者一起共建开源的KV数据库引擎NutsDB，有想法联系我。
+Recruit developers to build the kv database engine NutsDB together 招募开发者一起共建开源的KV数据库引擎NutsDB，有想法联系我。（wechat：xujiajun1234567，备注：nutsdb）
 
 Project address：https://github.com/nutsdb/nutsdb
 
