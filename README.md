@@ -1,17 +1,10 @@
 ### Hi there 👋
 
-I am Xu Jiajun, you can also call me Johnny, welcome to my Github, I am now mainly focusing on the development and sharing of Go language projects. At present, I have open sourced NutsDB (a KV engine), Gorouter (an HTTP router) and so on.
+Recruit developers to build the kv database engine NutsDB together 招募开发者一起共建开源的KV数据库引擎NutsDB，有想法联系我。
 
-我是徐佳军（xujiajun），你也可以叫我Johnny，欢迎来到我的Github，我现在主要专注于Go语言相关的工作，目前已经开源包括NutsDB（一个KV引擎 ）、Gorouter（一个HTTP router） 等项目。
+Project address：https://github.com/nutsdb/nutsdb
 
-欢迎follow，实时了解我的动态。
-
-最近开设了微信公众号，可以关注一下，我会第一时间分享不限于Go、微服务、架构、开源项目、源码分析等内容。
-
-
-![扫码_搜索联合传播样式-标准色版](https://user-images.githubusercontent.com/6065007/151082220-c7883e56-5f82-40d1-8be4-c0f5c757e399.png)
-
-
+Hope to build nutsdb together（希望共建nutsdb）：https://github.com/nutsdb/nutsdb/issues/116
 
 
 
