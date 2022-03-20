@@ -6,6 +6,9 @@ Project address：https://github.com/nutsdb/nutsdb
 
 Hope to build nutsdb together（希望共建nutsdb）：https://github.com/nutsdb/nutsdb/issues/116
 
+加微信群：
+
+![nutsdb中转_png](https://user-images.githubusercontent.com/6065007/159167511-f37ddae1-ebe7-4c55-ae55-fffbb44043ee.png)
 
 
 
