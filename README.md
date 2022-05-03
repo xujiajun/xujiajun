@@ -7,8 +7,8 @@ Project address：https://github.com/nutsdb/nutsdb
 Hope to build nutsdb together（希望共建nutsdb）：https://github.com/nutsdb/nutsdb/issues/116
 
 加微信群：
-
- <img src="https://user-images.githubusercontent.com/6065007/165084882-6381e344-4c8a-48b5-ac0e-80206d940b76.png" width = "400" height = "500" alt="图片名称" align=center />
+ 
+ <img src="https://user-images.githubusercontent.com/6065007/166455686-cf62a9d7-2469-4c33-8613-271d9284beee.png" width = "400" height = "500" alt="图片名称" align=center />
 
 
 <!--
