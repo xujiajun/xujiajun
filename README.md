@@ -8,7 +8,8 @@ Hope to build nutsdb together（希望共建nutsdb）：https://github.com/nutsd
 
 加微信群：
 
- <img src="https://user-images.githubusercontent.com/6065007/168455036-27167170-5ca8-4e8c-bcf9-a0ca46e113d9.png" width = "400" height = "500" alt="图片名称" align=center />
+
+ <img src="https://user-images.githubusercontent.com/6065007/169631598-9ae028a8-da6f-4575-8998-e748711a60a0.png" width = "400" height = "500" alt="图片名称" align=center />
 
 
 <!--
@@ -25,3 +26,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
