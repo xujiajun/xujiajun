@@ -9,7 +9,7 @@ Hope to build nutsdb together（希望共建nutsdb）：https://github.com/nutsd
 加微信群：
 
 
- <img src="https://user-images.githubusercontent.com/6065007/178001675-c9e7f731-a854-4a40-95cb-578312725795.png" width = "400" height = "500" alt="图片名称" align=center />
+ <img src="https://user-images.githubusercontent.com/6065007/179000955-285de755-67f5-44bf-bcf4-7fde5a630088.png" width = "400" height = "500" alt="图片名称" align=center />
 
  
 
