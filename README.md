@@ -9,9 +9,8 @@ Hope to build nutsdb together（希望共建nutsdb）：https://github.com/nutsd
 加微信群：
 
 
- <img src="https://user-images.githubusercontent.com/6065007/195356397-f6314e05-83e7-4fd8-9d13-527c110ab021.png" width = "400" height = "500" alt="图片名称" align=center />
+ <img src="https://user-images.githubusercontent.com/6065007/197392612-f28611cb-29a8-456e-be1b-a1267c0e5bc4.png" width = "400" height = "500" alt="图片名称" align=center />
  
-
  
 <!--
 **xujiajun/xujiajun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
