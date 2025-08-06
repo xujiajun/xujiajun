@@ -8,7 +8,7 @@ Hope to build nutsdb together（希望共建nutsdb）：https://github.com/nutsd
 
 ## 自荐下AI产品
 https://celergpt.com/
-AI 一键换风格、换背景、换服装，支持自定义创作，让创作更简单，欢迎免费体验。
+一键换风格、换背景、换服装，支持文生图、图生图、文生视频，支持API调用，让创作更简单
  
 <!--
 **xujiajun/xujiajun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
